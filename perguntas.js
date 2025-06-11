@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é marquetink digital',
+    'um meio de mostrar o seu produdo para o publica '
 )
 
 criaCartao(
