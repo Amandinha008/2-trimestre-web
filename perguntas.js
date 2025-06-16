@@ -5,14 +5,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'programação',
+    'quando foi criado o marketing digital ?',
+    'na decada de 1990'
 )
 
 criaCartao(
     'Programação',
-    "para que é usado?',
+    'para que é usado?',
     'Para edição de fotos e videos'
 )
 
