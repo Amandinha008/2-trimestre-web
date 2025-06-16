@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Programação',
     "para que é usado?',
-    'Para edição de fotos e videos  '
+    'Para edição de fotos e videos'
 )
 
 criaCartao(
