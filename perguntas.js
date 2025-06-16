@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é marquetink digital',
-    'um meio de mostrar o seu produdo para o publica '
+    'O que é marketing digital',
+    'um meio que as marcas usan para chamar atenção do publico  '
 )
 
 criaCartao(
@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    "para que é usado?',
+    'Para edição de fotos e videos  '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programação ',
+    'qual os aplicativo de edição',
+    'eu te indico o canva, é uma feramenta super facil de ser usada '
 )
